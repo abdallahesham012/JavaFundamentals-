@@ -4,7 +4,7 @@ A comprehensive collection of Java learning modules covering fundamental OOP con
 
 ---
 
-## 📚 Project Structure
+## Project Structure
 
 ### 1. **Aggregation**
 **Location:** `Aggregation/src/`
@@ -331,7 +331,7 @@ try (FileWriter writer = new FileWriter("text.txt")) {
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java JDK 8 or higher installed
@@ -341,8 +341,8 @@ try (FileWriter writer = new FileWriter("text.txt")) {
 ### Running the Projects
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Learn.git
-   cd Learn
+   git clone https://github.com/abdallahesham012/JavaFundamentals-.git
+   cd JavaFundamentals 
    ```
 
 2. Open the project in IntelliJ IDEA or your preferred IDE
@@ -355,7 +355,7 @@ try (FileWriter writer = new FileWriter("text.txt")) {
 
 ---
 
-## 💡 Learning Path
+## Learning Path
 
 Suggested order for learning:
 1. **Wrapper Classes** - Understand primitive to object conversion
@@ -372,22 +372,22 @@ Suggested order for learning:
 
 ---
 
-## 📝 Topics Covered
+## Topics Covered
 
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Inheritance and Polymorphism
-- ✅ Composition vs. Aggregation
-- ✅ Collections Framework (ArrayList, HashMap)
-- ✅ Enumerations (Enums)
-- ✅ Exception Handling
-- ✅ Wrapper Classes and Autoboxing
-- ✅ Anonymous Inner Classes
-- ✅ Date and Time API
-- ✅ File I/O Operations
+- Object-Oriented Programming (OOP)
+-  Inheritance and Polymorphism
+-  Composition vs. Aggregation
+-  Collections Framework (ArrayList, HashMap)
+-  Enumerations (Enums)
+-  Exception Handling
+-  Wrapper Classes and Autoboxing
+-  Anonymous Inner Classes
+-  Date and Time API
+-  File I/O Operations
 
 ---
 
-## 📖 Additional Resources
+## Additional Resources
 
 - [Java Official Documentation](https://docs.oracle.com/javase/)
 - [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
@@ -395,22 +395,16 @@ Suggested order for learning:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to contribute improvements, bug fixes, or additional examples. Fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+## Author
 
-This project is open source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Created as a learning resource for Java fundamentals and OOP concepts.
+Created by Abdallah Hesham as a learning resource for Java fundamentals and OOP concepts.
 
 ---
 
-**Happy Learning!** 🎉
+**Happy Learning!**
