@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aggregiation/Aggregiation.iml" filepath="$PROJECT_DIR$/Aggregiation/Aggregiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anonymous Class/Anonymous Class.iml" filepath="$PROJECT_DIR$/Anonymous Class/Anonymous Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date and Time/Date and Time.iml" filepath="$PROJECT_DIR$/Date and Time/Date and Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmaps/Hashmaps.iml" filepath="$PROJECT_DIR$/Hashmaps/Hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learn.iml" filepath="$PROJECT_DIR$/Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refrence Casting/Refrence Casting.iml" filepath="$PROJECT_DIR$/Refrence Casting/Refrence Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" filepath="$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Write and Read Files/Write and Read Files.iml" filepath="$PROJECT_DIR$/Write and Read Files/Write and Read Files.iml" />
+    </modules>
+  </component>
+</project>
