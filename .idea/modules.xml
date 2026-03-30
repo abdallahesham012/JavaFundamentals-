@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Refrence Casting/Refrence Casting.iml" filepath="$PROJECT_DIR$/Refrence Casting/Refrence Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" filepath="$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Write and Read Files/Write and Read Files.iml" filepath="$PROJECT_DIR$/Write and Read Files/Write and Read Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/printf/printf.iml" filepath="$PROJECT_DIR$/printf/printf.iml" />
     </modules>
   </component>
 </project>
